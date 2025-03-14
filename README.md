@@ -14,3 +14,10 @@ https://dynamic-torte-39792b.netlify.app/
 - Footer with links to social media and other sections
 - Simple layout design inspired by Netflix UI
 
+ ## Technologies Used
+- HTML
+- CSS
+- Responsive Design (Media queries for different screen sizes)
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
+
